@@ -1,0 +1,3 @@
+1、fetch-mcp、mcp_server_baidu_maps、test、weather四个文件夹都是MCP server
+2、将cline_mcp_setting.json复制cline的MCP configuration中即可注册MCP server，注册成功后可以看到server中的tools的功能
+3、mcp_ logger.py是抓取MCP调用脚本，使用方法参照cline_mcp_setting.json中的baidu-map和weather的command和args
